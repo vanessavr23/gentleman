@@ -1,0 +1,87 @@
+body{
+	background: #EBEBEB;
+}
+
+header, footer, .plomo{
+	background-color: #363638
+}
+
+header{
+	padding: 10px;
+}
+
+.logo{
+	font-size: 40px;
+}
+
+nav .menu{
+	text-decoration: none;
+	color: white;
+	padding: 13px;
+}
+
+.men{
+	padding: 20px;
+}
+
+.espacio{
+	padding: 3%;
+	border-bottom: 1px solid black;
+}
+
+.gentleman{
+	font-size: 36px;
+}
+
+.gent{
+	padding: 0 2%;
+}
+
+.read{
+	margin: 15% 0;
+	padding: 10px 20px;
+	border-radius: 20px;
+	border: none;
+	color: white;
+	background-color: #888;
+}
+
+nav .work{
+	text-decoration: none;
+	padding: 4px 4px 4px 0;
+	color: #888;
+}
+
+.lila{
+	padding: 5% 3% 0 0;
+}
+
+.cappuccino{
+	font-weight: bold;
+}
+
+.chico{
+	font-size: 14px;
+	padding: 10px 0 0 0;
+}
+
+.load{
+	margin: 5% 0 1% 0;
+	padding: 10px 20px;
+	border-radius: 20px;
+	border: none;
+	color: white;
+	background-color: #888;
+}
+
+.paj{
+	padding: 3% 0;
+}
+
+.ico{
+	font-size: 56px;
+}
+
+.quote{
+	font-size: 36px;
+}
